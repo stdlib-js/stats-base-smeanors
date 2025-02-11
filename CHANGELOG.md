@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-02-11)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5180](https://github.com/stdlib-js/stdlib/issues/5180)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`9d5f07f`](https://github.com/stdlib-js/stdlib/commit/9d5f07f2c383faf8c4b0c84384a6724bc34ddc24) - **chore:** fix C lint errors [(#5195)](https://github.com/stdlib-js/stdlib/pull/5195) _(by GK Bishnoi)_
 -   [`7d83b83`](https://github.com/stdlib-js/stdlib/commit/7d83b837055b388bd26d9eeb42f709042a257a4d) - **refactor:** update `stats/base/smeanors` native addon from C++ to C [(#4606)](https://github.com/stdlib-js/stdlib/pull/4606) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,9 +41,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   GK Bishnoi
 -   Philipp Burckhardt
 -   Vivek Maurya
 
