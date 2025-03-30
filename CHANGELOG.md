@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-30)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cd6dfed`](https://github.com/stdlib-js/stdlib/commit/cd6dfedfaf5d92a8b79cfbb6592e70d184e78ca4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`50435ee`](https://github.com/stdlib-js/stdlib/commit/50435ee02e6c25a2b7d65702056e9d4e83a37337) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`9d5f07f`](https://github.com/stdlib-js/stdlib/commit/9d5f07f2c383faf8c4b0c84384a6724bc34ddc24) - **chore:** fix C lint errors [(#5195)](https://github.com/stdlib-js/stdlib/pull/5195) _(by GK Bishnoi)_
 -   [`7d83b83`](https://github.com/stdlib-js/stdlib/commit/7d83b837055b388bd26d9eeb42f709042a257a4d) - **refactor:** update `stats/base/smeanors` native addon from C++ to C [(#4606)](https://github.com/stdlib-js/stdlib/pull/4606) _(by Vivek Maurya)_
