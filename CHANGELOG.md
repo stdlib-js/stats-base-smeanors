@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-04-02)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5180](https://github.com/stdlib-js/stdlib/issues/5180)
+[#5180](https://github.com/stdlib-js/stdlib/issues/5180), [#6132](https://github.com/stdlib-js/stdlib/issues/6132)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1c11f2e`](https://github.com/stdlib-js/stdlib/commit/1c11f2ef49301abcd6a76075fef5a412838350de) - **chore:** address C lint errors [(#6193)](https://github.com/stdlib-js/stdlib/pull/6193) _(by Jay Soni, Athan Reines, stdlib-bot)_
 -   [`cd6dfed`](https://github.com/stdlib-js/stdlib/commit/cd6dfedfaf5d92a8b79cfbb6592e70d184e78ca4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`50435ee`](https://github.com/stdlib-js/stdlib/commit/50435ee02e6c25a2b7d65702056e9d4e83a37337) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`9d5f07f`](https://github.com/stdlib-js/stdlib/commit/9d5f07f2c383faf8c4b0c84384a6724bc34ddc24) - **chore:** fix C lint errors [(#5195)](https://github.com/stdlib-js/stdlib/pull/5195) _(by GK Bishnoi)_
@@ -43,11 +44,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   GK Bishnoi
+-   Jay Soni
 -   Philipp Burckhardt
 -   Vivek Maurya
 
