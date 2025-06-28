@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-12)
+## Unreleased (2025-06-28)
+
+<section class="features">
+
+### Features
+
+-   [`4f1fed8`](https://github.com/stdlib-js/stdlib/commit/4f1fed812adb03f931aff272e3a2a33f955b88bd) - add C ndarray interface and refactor implementation for `stats/base/smeanors` [(#7501)](https://github.com/stdlib-js/stdlib/pull/7501)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4f1fed8`](https://github.com/stdlib-js/stdlib/commit/4f1fed812adb03f931aff272e3a2a33f955b88bd) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smeanors` [(#7501)](https://github.com/stdlib-js/stdlib/pull/7501) _(by Gururaj Gurram, stdlib-bot)_
 -   [`95ea592`](https://github.com/stdlib-js/stdlib/commit/95ea592caa0b9a1119bf963061638823011cd323) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
